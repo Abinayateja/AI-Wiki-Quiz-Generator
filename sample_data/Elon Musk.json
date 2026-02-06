@@ -1,0 +1,137 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+  "title": "Elon Musk",
+  "summary": "Elon Musk is a businessman and entrepreneur known for his leadership of Tesla, SpaceX, Twitter, and xAI.",
+  "key_entities": {
+    "people": [
+      "Elon Musk",
+      "Donald Trump",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "Tesla",
+      "SpaceX",
+      "Twitter",
+      "xAI",
+      "eBay",
+      "PayPal"
+    ],
+    "locations": [
+      "South Africa",
+      "Canada",
+      "United States",
+      "Philadelphia",
+      "California"
+    ]
+  },
+  "sections": [
+    "Early life",
+    "Business career",
+    "Other activities",
+    "Politics",
+    "Views",
+    "Legal affairs",
+    "Personal life",
+    "Wealth",
+    "Public image",
+    "Notes",
+    "References",
+    "Works cited",
+    "Further reading",
+    "External links"
+  ],
+  "related_topics": [
+    "Business",
+    "Technology",
+    "Space Exploration",
+    "Politics",
+    "Entrepreneurship"
+  ],
+  "quiz": [
+    {
+      "question": "Where was Elon Musk born?",
+      "options": [
+        "Pretoria, South Africa",
+        "Philadelphia, United States",
+        "Toronto, Canada",
+        "Cape Town, South Africa"
+      ],
+      "answer": "A",
+      "difficulty": "EASY",
+      "explanation": "Elon Musk was born in Pretoria, South Africa."
+    },
+    {
+      "question": "What was the name of the company co-founded by Elon Musk in 1995?",
+      "options": [
+        "Zip2",
+        "X.com",
+        "PayPal",
+        "SpaceX"
+      ],
+      "answer": "A",
+      "difficulty": "EASY",
+      "explanation": "Elon Musk co-founded the software company Zip2 in 1995."
+    },
+    {
+      "question": "What is the name of the neurotechnology company co-founded by Elon Musk in 2016?",
+      "options": [
+        "Neuralink",
+        "The Boring Company",
+        "SpaceX",
+        "Tesla"
+      ],
+      "answer": "A",
+      "difficulty": "MEDIUM",
+      "explanation": "Elon Musk co-founded the neurotechnology company Neuralink in 2016."
+    },
+    {
+      "question": "Who did Elon Musk support in the 2024 U.S. presidential election?",
+      "options": [
+        "Joe Biden",
+        "Donald Trump",
+        "Bernie Sanders",
+        "Elizabeth Warren"
+      ],
+      "answer": "B",
+      "difficulty": "MEDIUM",
+      "explanation": "Elon Musk supported Donald Trump in the 2024 U.S. presidential election."
+    },
+    {
+      "question": "What was the estimated net worth of Elon Musk as of February 2026?",
+      "options": [
+        "US$500 billion",
+        "US$852 billion",
+        "US$1 trillion",
+        "US$2 trillion"
+      ],
+      "answer": "B",
+      "difficulty": "MEDIUM",
+      "explanation": "The estimated net worth of Elon Musk as of February 2026 was around US$852 billion."
+    },
+    {
+      "question": "What is the name of the online payment company co-founded by Elon Musk that later merged to form PayPal?",
+      "options": [
+        "X.com",
+        "Zip2",
+        "SpaceX",
+        "Tesla"
+      ],
+      "answer": "A",
+      "difficulty": "HARD",
+      "explanation": "Elon Musk co-founded the online payment company X.com, which later merged to form PayPal."
+    },
+    {
+      "question": "What is the name of the tunneling company founded by Elon Musk in 2017?",
+      "options": [
+        "The Boring Company",
+        "Neuralink",
+        "SpaceX",
+        "Tesla"
+      ],
+      "answer": "A",
+      "difficulty": "HARD",
+      "explanation": "Elon Musk founded the tunneling company The Boring Company in 2017."
+    }
+  ]
+}

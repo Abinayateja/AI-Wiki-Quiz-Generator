@@ -1,0 +1,136 @@
+{
+  "id": 3,
+  "url": "https://en.wikipedia.org/wiki/Culture_of_India",
+  "title": "Indian Culture",
+  "summary": "Indian culture is the heritage of social norms and technologies that originated in or are associated with the ethno-linguistically diverse nation of India",
+  "key_entities": {
+    "people": [
+      "Shri Mahatma Gandhi",
+      "Martin Luther King Jr.",
+      "James Bevel",
+      "Professor Przyluski",
+      "Jules Bloch",
+      "Lévi"
+    ],
+    "organizations": [],
+    "locations": [
+      "India",
+      "South Asia",
+      "Southeast Asia",
+      "Hindu Kush",
+      "Pamir Mountains"
+    ]
+  },
+  "sections": [
+    "Religious culture",
+    "Philosophy",
+    "Family structure and wedding",
+    "Festivals",
+    "Greetings",
+    "Animals",
+    "Cuisine",
+    "Clothing",
+    "Languages and literature",
+    "Performing arts",
+    "Visual arts",
+    "Sports and martial arts",
+    "Popular media",
+    "Perceptions of Indian culture"
+  ],
+  "related_topics": [
+    "Indian Subcontinent",
+    "South Asia",
+    "Southeast Asia",
+    "Hinduism",
+    "Buddhism",
+    "Jainism",
+    "Sikhism",
+    "Indian Religions"
+  ],
+  "quiz": [
+    {
+      "question": "What is the term used to describe the spread of Hinduism, Buddhism, architecture, administration, and writing system from India to other parts of Asia?",
+      "options": [
+        "Greater India",
+        "Indian Subcontinent",
+        "South Asia",
+        "Indosphere"
+      ],
+      "answer": "A",
+      "difficulty": "MEDIUM",
+      "explanation": "Greater India refers to the historical extent of Indian culture beyond the Indian subcontinent"
+    },
+    {
+      "question": "Which of the following is NOT one of the Indian-origin religions mentioned in the article?",
+      "options": [
+        "Hinduism",
+        "Jainism",
+        "Buddhism",
+        "Christianity"
+      ],
+      "answer": "D",
+      "difficulty": "EASY",
+      "explanation": "Christianity is a foreign-origin religion, not an Indian-origin religion"
+    },
+    {
+      "question": "What percentage of the population of India practices Hinduism, according to the 2011 census?",
+      "options": [
+        "70%",
+        "75%",
+        "79.8%",
+        "85%"
+      ],
+      "answer": "C",
+      "difficulty": "EASY",
+      "explanation": "The 2011 census reported that 79.8% of the population of India practices Hinduism"
+    },
+    {
+      "question": "Who is credited with using civil disobedience to unite India during the Indian independence movement?",
+      "options": [
+        "Shri Mahatma Gandhi",
+        "Martin Luther King Jr.",
+        "James Bevel",
+        "Professor Przyluski"
+      ],
+      "answer": "A",
+      "difficulty": "MEDIUM",
+      "explanation": "Shri Mahatma Gandhi used civil disobedience to unite India during the Indian independence movement"
+    },
+    {
+      "question": "What is the name of the philosophy of nonviolence that is an important aspect of native Indian faiths?",
+      "options": [
+        "Dharma",
+        "Karma",
+        "Ahimsa",
+        "Yoga"
+      ],
+      "answer": "C",
+      "difficulty": "MEDIUM",
+      "explanation": "Ahimsa is the philosophy of nonviolence that is an important aspect of native Indian faiths"
+    },
+    {
+      "question": "How many states and union territories does India have, according to the article?",
+      "options": [
+        "20 states and 5 union territories",
+        "25 states and 7 union territories",
+        "28 states and 8 union territories",
+        "30 states and 10 union territories"
+      ],
+      "answer": "C",
+      "difficulty": "EASY",
+      "explanation": "India has 28 states and 8 union territories"
+    },
+    {
+      "question": "What is the approximate number of followers of Indian religions, including Hindus, Sikhs, Jains, and Buddhists, according to the article?",
+      "options": [
+        "1 billion",
+        "1.5 billion",
+        "2 billion",
+        "2.5 billion"
+      ],
+      "answer": "C",
+      "difficulty": "HARD",
+      "explanation": "The article estimates that there are over 2 billion followers of Indian religions"
+    }
+  ]
+}

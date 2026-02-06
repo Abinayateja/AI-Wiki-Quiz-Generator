@@ -1,0 +1,117 @@
+{
+  "id": 2,
+  "url": "https://en.wikipedia.org/wiki/List_of_terrorist_incidents_in_India",
+  "title": "Terrorist Incidents in India",
+  "summary": "A list of terrorist incidents in India, including data on fatalities and injuries",
+  "key_entities": {
+    "people": [],
+    "organizations": [
+      "Abhinav Bharat",
+      "Harkat-ul-Jihad-al-Islami",
+      "Indian Mujahideen"
+    ],
+    "locations": [
+      "India"
+    ]
+  },
+  "sections": [
+    "List of terror attacks in India",
+    "Year",
+    "fatalities, and number of incidents",
+    "See also",
+    "References",
+    "External links"
+  ],
+  "related_topics": [
+    "Terrorism in India",
+    "Indian Mujahideen",
+    "Abhinav Bharat",
+    "Harkat-ul-Jihad-al-Islami"
+  ],
+  "quiz": [
+    {
+      "question": "What year did the Government of India release data on terrorist attacks?",
+      "options": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "answer": "2016",
+      "difficulty": "EASY",
+      "explanation": "The Government of India released data in July 2016"
+    },
+    {
+      "question": "How many people were killed in terrorist attacks in India since 2005?",
+      "options": [
+        "500",
+        "600",
+        "707",
+        "1000"
+      ],
+      "answer": "707",
+      "difficulty": "EASY",
+      "explanation": "The data released by the Government of India stated that 707 people were killed"
+    },
+    {
+      "question": "What is the name of the alleged terrorist organization mentioned in the article?",
+      "options": [
+        "Abhinav Bharat",
+        "Harkat-ul-Jihad-al-Islami",
+        "Indian Mujahideen",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "difficulty": "MEDIUM",
+      "explanation": "The article mentions all three organizations"
+    },
+    {
+      "question": "What is the number of people injured in terrorist attacks in India since 2005?",
+      "options": [
+        "1000",
+        "2000",
+        "3200",
+        "4000"
+      ],
+      "answer": "3200",
+      "difficulty": "MEDIUM",
+      "explanation": "The data released by the Government of India stated that over 3200 people were injured"
+    },
+    {
+      "question": "In which month did the Government of India release the data on terrorist attacks?",
+      "options": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "answer": "July",
+      "difficulty": "EASY",
+      "explanation": "The Government of India released the data in July 2016"
+    },
+    {
+      "question": "What type of incidents are listed in the article?",
+      "options": [
+        "Natural disasters",
+        "Terrorist incidents",
+        "Economic crises",
+        "Environmental disasters"
+      ],
+      "answer": "Terrorist incidents",
+      "difficulty": "HARD",
+      "explanation": "The article is about a list of terrorist incidents in India"
+    },
+    {
+      "question": "How many sections are there in the article?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "6",
+      "difficulty": "HARD",
+      "explanation": "The article has 6 sections"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "The Epstein Files",
+  "summary": "The Epstein files are millions of documents detailing the criminal activities of Jeffrey Epstein and his social circle of public figures, politicians, and celebrities.",
+  "key_entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Donald Trump",
+      "Ghislaine Maxwell",
+      "Elon Musk",
+      "Alex Jones",
+      "John Oliver",
+      "Julie K. Brown",
+      "Loretta Preska"
+    ],
+    "organizations": [
+      "U.S. House of Representatives",
+      "U.S. Senate",
+      "U.S. Department of Justice",
+      "FBI",
+      "Democratic Party"
+    ],
+    "locations": [
+      "United States",
+      "Palm Beach, Florida"
+    ]
+  },
+  "sections": [
+    "Background",
+    "2023–2024 Maxwell case unsealing",
+    "Position of Trump administration",
+    "Congressional action",
+    "Chronology of releases and disclosures",
+    "Contents",
+    "Reaction and fallout"
+  ],
+  "quiz": [
+    {
+      "question": "What is the estimated total number of pages that might qualify as files required to be released by the U.S. Department of Justice?",
+      "options": [
+        "1 million",
+        "3 million",
+        "6 million",
+        "10 million"
+      ],
+      "answer": "C",
+      "difficulty": "EASY",
+      "explanation": "According to the article, the Department of Justice acknowledged that a total of 6 million pages might qualify as files required to be released."
+    },
+    {
+      "question": "Who signed the Epstein Files Transparency Act into law?",
+      "options": [
+        "Joe Biden",
+        "Donald Trump",
+        "Barack Obama",
+        "Bill Clinton"
+      ],
+      "answer": "B",
+      "difficulty": "EASY",
+      "explanation": "According to the article, Donald Trump signed the bill into law the day after it was unanimously approved by the U.S. Senate."
+    },
+    {
+      "question": "What is the name of the book of contacts that was published by Business Insider in 2021?",
+      "options": [
+        "Epstein's black book",
+        "Epstein's little black book",
+        "Epstein's other little black book",
+        "The Epstein List"
+      ],
+      "answer": "C",
+      "difficulty": "MEDIUM",
+      "explanation": "According to the article, the book of contacts published by Business Insider in 2021 is sometimes referred to as 'Epstein's other little black book'."
+    },
+    {
+      "question": "What was the outcome of the investigation into the existence of a client list within the Epstein files?",
+      "options": [
+        "The list was found to exist and contained the names of high-profile clients",
+        "The list was found to exist but did not contain the names of high-profile clients",
+        "The list was not found to exist",
+        "The investigation is ongoing"
+      ],
+      "answer": "C",
+      "difficulty": "MEDIUM",
+      "explanation": "According to the article, the DOJ's July 2025 memo stated that no client list exists within the Epstein files and that investigators found no credible evidence Epstein used such material to blackmail associates."
+    },
+    {
+      "question": "How did Trump and Epstein's relationship change in the early 2000s?",
+      "options": [
+        "It became closer",
+        "It remained the same",
+        "It cooled",
+        "It ended"
+      ],
+      "answer": "C",
+      "difficulty": "MEDIUM",
+      "explanation": "According to the article, Trump and Epstein's relationship cooled in the early 2000s due to disputes over employees and a real estate deal."
+    },
+    {
+      "question": "What was the significance of the 2005 book of names, phone numbers, emails, and home addresses taken from Epstein's home?",
+      "options": [
+        "It was a list of Epstein's clients",
+        "It was a phone directory",
+        "It was a list of celebrities",
+        "It was a list of politicians"
+      ],
+      "answer": "B",
+      "difficulty": "HARD",
+      "explanation": "According to the article, the book of contacts was a phone directory that included celebrities as well as Epstein's gardeners, hairdresser, barbers, and electrician."
+    },
+    {
+      "question": "What was the outcome of the 2023 court case regarding the unsealing of documents from the 2015 defamation case against Ghislaine Maxwell?",
+      "options": [
+        "The documents were sealed",
+        "The documents were unsealed",
+        "The case was dismissed",
+        "The case is ongoing"
+      ],
+      "answer": "B",
+      "difficulty": "HARD",
+      "explanation": "According to the article, the court ordered the unsealing of documents from the 2015 defamation case against Ghislaine Maxwell, with anyone who had their name contained in these documents having until January 1, 2024, to appeal to have their name removed."
+    }
+  ],
+  "related_topics": [
+    "Jeffrey Epstein",
+    "Ghislaine Maxwell",
+    "Donald Trump",
+    "Epstein files",
+    "Child sex trafficking"
+  ],
+  "id": 4,
+  "url": "https://en.wikipedia.org/wiki/Epstein_files"
+}
