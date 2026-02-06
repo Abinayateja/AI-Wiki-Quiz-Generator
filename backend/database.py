@@ -1,8 +1,10 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
-DATABASE_URL = "mysql+pymysql://root:1234@localhost/wiki_quiz"
+import os
 
-engine=create_engine(DATABASE_URL)
+SQLALCHEMY_DATABASE_URL = os.getenv("DATABASE_URL")
+
+engine=create_engine(SQLALCHEMY_DATABASE_URL)
 
 SessionLocal=sessionmaker(bind=engine,autoflush=False,autocommit=False)
 
