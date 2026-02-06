@@ -1,0 +1,120 @@
+body{
+ background:#0f172a;
+ color:white;
+ font-family:sans-serif;
+ margin:0;
+}
+
+.container{
+ max-width:900px;
+ margin:auto;
+ padding:20px;
+}
+
+.tab-buttons{
+ margin-bottom:20px;
+}
+
+button{
+ background:#3b82f6;
+ border:none;
+ color:white;
+ padding:12px 20px;
+ border-radius:8px;
+ cursor:pointer;
+ margin-right:10px;
+}
+
+.big-btn{
+ display:block;
+ margin-top:10px;
+}
+
+.input{
+ width:100%;
+ padding:12px;
+ border-radius:8px;
+ border:none;
+ margin-bottom:10px;
+}
+
+.card{
+ background:#1e293b;
+ padding:15px;
+ border-radius:10px;
+ margin-top:15px;
+}
+
+.badge{
+ background:#22c55e;
+ display:inline-block;
+ padding:4px 8px;
+ border-radius:6px;
+}
+
+table{
+ width:100%;
+ background:#1e293b;
+ margin-top:20px;
+}
+
+th,td{
+ padding:10px;
+}
+
+.modal{
+ background:#020617;
+ padding:20px;
+ margin-top:20px;
+ border-radius:12px;
+}
+.loader{
+ width:40px;
+ height:40px;
+ border:4px solid white;
+ border-top:4px solid transparent;
+ border-radius:50%;
+ animation:spin 1s linear infinite;
+ margin:20px auto;
+}
+
+@keyframes spin{
+ from{transform:rotate(0deg);}
+ to{transform:rotate(360deg);}
+}
+.topics-container{
+ margin-top:10px;
+}
+
+.topic-badge{
+ background:#e0e7ff;
+ color:#3730a3;
+ padding:6px 12px;
+ border-radius:20px;
+ margin-right:8px;
+ display:inline-block;
+ margin-bottom:6px;
+ font-weight:600;
+}
+
+
+.badge.easy {
+ background:#22c55e;
+ color:white;
+ padding:4px 8px;
+ border-radius:6px;
+}
+
+.badge.medium {
+ background:#f59e0b;
+ color:white;
+ padding:4px 8px;
+ border-radius:6px;
+}
+
+.badge.hard {
+ background:#ef4444;
+ color:white;
+ padding:4px 8px;
+ border-radius:6px;
+}
