@@ -1,7 +1,8 @@
 from sqlalchemy import Column,Integer,String,Text,ForeignKey
 from sqlalchemy.orm import relationship
 from database import Base
-from sqlalchemy.dialects.mysql import LONGTEXT
+from sqlalchemy import Text
+
 
 
 class Quiz(Base):
@@ -15,7 +16,7 @@ class Quiz(Base):
     key_entities = Column(Text)
     sections = Column(Text)
     related_topics = Column(Text)
-    raw_html = Column(LONGTEXT)
+    raw_html = Column(Text)
 
     questions = relationship("Question", back_populates="quiz")
 
