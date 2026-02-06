@@ -9,7 +9,7 @@ export default function History(){
 
  useEffect(()=>{
 
-   fetch("http://127.0.0.1:8000/history")
+   fetch("https://ai-wiki-backend-lfjm.onrender.com/history")
    .then(res=>res.json())
    .then(data=>setList(data))
    .catch(()=>setError("Failed to load history"))
@@ -21,7 +21,7 @@ export default function History(){
    setLoading(true)
 
    try{
-     const res = await fetch(`http://127.0.0.1:8000/quiz/${id}`)
+     const res = await fetch(`https://ai-wiki-backend-lfjm.onrender.com/quiz/${id}`)
      const data = await res.json()
      setSelected(data)
    }catch{
